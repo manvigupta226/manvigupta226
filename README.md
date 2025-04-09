@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
-- 📝 I regularly write articles on [https://manvigupta.hashnode.dev/](https://manvigupta.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode Blogs](https://manvigupta.hashnode.dev/)
 
 - 📫 How to reach me **mgupta.dev07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w0wsEi3NE03SDq47Kf5CbZmEZEj_psGn/view?usp=sharing](https://drive.google.com/file/d/1w0wsEi3NE03SDq47Kf5CbZmEZEj_psGn/view?usp=sharing)
+- 📄 Know about my experiences [Manvi's Resume](https://drive.google.com/file/d/1w0wsEi3NE03SDq47Kf5CbZmEZEj_psGn/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
