@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manvi Gupta</h1>
-<h3 align="center">A passionate Backend Developer, currently building scalable systems and secure features @Wysa. I love designing APIs, working with data, and contributing to impactful products. Also, always happy to share knowledge and grow with the dev community.</h3>
+<h3 align="center">A passionate Backend Engineer, currently building scalable systems and secure features @CyberPWN. I love designing APIs, working with data, and contributing to impactful products. Also, always happy to share knowledge and grow with the dev community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvigupta226&label=Profile%20views&color=0e75b6&style=flat" alt="manvigupta226" /> </p>
 
